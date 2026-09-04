@@ -9,6 +9,6 @@ Mai-Tam Tram: Master of Science in Neurobiology.
 
 Please refer to the main code and .pdf for the specific contributions.
 
+Dashboard executive overview:
 
-
-
+<img width="1282" height="737" alt="Bescotti, Meyer, Tam (2026) Health-Emotion-Gap 2024 PowerBI dashboard edited" src="https://github.com/user-attachments/assets/6918e504-f9f9-4666-9aba-61da8f222fce" />
