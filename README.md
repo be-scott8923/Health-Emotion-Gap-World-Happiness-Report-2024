@@ -5,7 +5,7 @@ This project was developed by (in alphabetical order):
 
 Elia Bescotti: Doctoral Degree in Political and Social Sciences;
 Manfred Meyer: Master’s Degree in Business Administration;
-Mai-Tam Tram: Master of Science in Neurobiology.
+Mai-Tam Tran: Master of Science in Neurobiology.
 
 Please refer to the main code and .pdf for the specific contributions.
 
